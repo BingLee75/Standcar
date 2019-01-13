@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1547299136 source:/home/pi/Desktop/mySegway/mySegway.c
+	<wiringPiI2C.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<sys/time.h>
+	"motors.h"
+	<wiringPi.h>
+
+1547287557 source:/home/pi/Desktop/mySegway/motors.c
+	<stdio.h>
+	<stdlib.h>
+	<wiringPi.h>
+	<softPwm.h>
+	"motors.h"
+
+1547287253 /home/pi/Desktop/mySegway/motors.h
+
